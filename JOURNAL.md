@@ -18,3 +18,8 @@ Started project by making the schematic file. Created the switch matrix and star
 I moved schematic into a pcb. Using kb placer. After creating a 3x3 matrix of the keys and routing them, I realized I had more pins I could use. I added a new rotary encoder switch to the matrix, making a 4th column. This required me to download a new footprint library. After wiring the schematic, I added the rotary encoder to the PCB. With that finished, I changed the pins for the rows and columsn to make the routing easier and fixed all the DRC errors. I added a rough board outline for the finished PCB and now I have to move to CAD for the plate and case.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzA1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--2e3082d837a27b3c94ab795af0eccd236e82b7bd/image.png)
   
 
+## 11/2/2025 - Fixed pin layouts and routing  
+
+First, I realigned all the diodes as they were misaligned to each other, causing unnecessary trace length. Then, I changed the pins for the rotary encoder as it made the routing easier. this also removed the need to have vias. Then, I unrouted a large chunk of the traces connecting to the mcu as they were too close for the tolerances of JLC.Finally, I added the wooper image on the silkscreen for fun. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--784219dbc8fb8076ceadf337633787c535ec47ef/image.png)
+  
+
