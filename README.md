@@ -8,6 +8,7 @@ For the Emerald Makerspace Club, this is a small 9 switch + 1 rotary encoder mac
 - 9 Cherry Keycaps
 - 10 tht DO-35 diodes
 - 1 Rotary Encoder
+  These components were chosen to minimize cost, keep the macropad relatively basic, and to make it easy to solder.
 
 ## Firmware
 The firmware is made with QMK.
