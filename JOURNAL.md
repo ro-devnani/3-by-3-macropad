@@ -23,3 +23,9 @@ I moved schematic into a pcb. Using kb placer. After creating a 3x3 matrix of th
 First, I realigned all the diodes as they were misaligned to each other, causing unnecessary trace length. Then, I changed the pins for the rotary encoder as it made the routing easier. this also removed the need to have vias. Then, I unrouted a large chunk of the traces connecting to the mcu as they were too close for the tolerances of JLC.Finally, I added the wooper image on the silkscreen for fun. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--784219dbc8fb8076ceadf337633787c535ec47ef/image.png)
   
 
+## 11/6/2025 - More PCB fixes and CAD  
+
+First, I realized that I used a RP2040 Matrix instead of a RP2040 Pro Micro, so I changed the PCB and rerouted a bit to accommodate. Then, I created a basic plate and case in Fusion 360 because the switches are hotswap. I may need to redesign a bit when I get the PCB, but it should be mostly done.![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--afd4517f4f478f3554bed0f29d690ebb332d41fb/image.png) ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODkyNywicHVyIjoiYmxvYl9pZCJ9fQ==--ad56eadea65eb1f7f875c63e4d1043b037d03cc1/image.png)
+
+  
+
