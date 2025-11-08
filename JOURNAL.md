@@ -35,3 +35,8 @@ First, I realized that I used a RP2040 Matrix instead of a RP2040 Pro Micro, so 
 
   
 
+## 11/7/2025 - Created basic firmware and  BOM  
+
+I made a quick and basic QMK firmware code that just has basic keypresses, rotary encoder, and a single layer. This will be changed and fixed after I build the board. I also made a bill of materials csv file. Also fixed column pin being on 3v3 instead of a gpio. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--e1de16feea0e7eb9b7f0b27203c12d4ffaf0d548/image.png)
+  
+
