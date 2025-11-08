@@ -40,3 +40,11 @@ First, I realized that I used a RP2040 Matrix instead of a RP2040 Pro Micro, so 
 I made a quick and basic QMK firmware code that just has basic keypresses, rotary encoder, and a single layer. This will be changed and fixed after I build the board. I also made a bill of materials csv file. Also fixed column pin being on 3v3 instead of a gpio. ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--e1de16feea0e7eb9b7f0b27203c12d4ffaf0d548/image.png)
   
 
+## 11/8/2025 - Fix case  
+
+I modified the case to have a lip that is enough for the bottom of the switches to not hit the bottom and clack. The original case was made by increasing the outer offset from the plate and extruding it to around 25mm.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--3234400952d77786e93e927ada220f9688bace7d/image.png)
+
+  
+
