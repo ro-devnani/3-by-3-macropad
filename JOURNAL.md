@@ -42,7 +42,7 @@ I made a quick and basic QMK firmware code that just has basic keypresses, rotar
 
 ## 11/8/2025 - Fix case  
 
-I modified the case to have a lip that is enough for the bottom of the switches to not hit the bottom and clack. The original case was made by increasing the outer offset from the plate and extruding it to around 25mm.
+I modified the case to have a lip that is enough for the bottom of the switches to not hit the bottom and clack. The original case was made by increasing the outer offset from the plate and extruding it to around 25mm. Both case and the plate are in the CAD Models directory in the repo.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--3234400952d77786e93e927ada220f9688bace7d/image.png)
 
