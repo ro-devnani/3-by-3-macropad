@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D2, D3, D4, D5, D6, D7, D8, D9",Diode_DO-35,10,D_Small,
+"MX1, MX2, MX3, MX4, MX5, MX6, MX7, MX8, MX9",Hotswap_MX_1.00u,9,MX_SW_HS,
+SW1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
+U2,RP2040_Pro_Micro,1,RP2040_Pro_Micro,
+=======
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D2, D3, D4, D5, D6, D7, D8, D9",Diode_DO-35,10,D_Small,
+"MX1, MX2, MX3, MX4, MX5, MX6, MX7, MX8, MX9",Hotswap_MX_1.00u,9,MX_SW_HS,
+SW1,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
+U2,RP2040_Pro_Micro,1,RP2040_Pro_Micro,
+>>>>>>> 4d65ed6 (Add PCB files)
